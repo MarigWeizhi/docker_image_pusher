@@ -1,3 +1,1 @@
-minio/minio
-minio/mc
-apache/amoro
+apache/amoro:0.7.1-incubating
