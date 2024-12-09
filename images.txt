@@ -1,2 +1,3 @@
-vllm/vllm-openai
-ollama/ollama
+minio/minio
+minio/mc
+apache/amoro
