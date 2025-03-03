@@ -1,1 +1,1 @@
-openjdk:8u342-jdk
+container-registry.oracle.com/database/free:latest
